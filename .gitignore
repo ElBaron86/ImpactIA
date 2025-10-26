@@ -1,0 +1,6 @@
+# files to ignore
+*.log
+# report files
+models/
+data/
+.env
